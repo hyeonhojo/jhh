@@ -29,15 +29,14 @@ body{
   width: 1250px;
 }
 #titletext{
-	font-family: 'Anton', sans-serif;
+	font-family: 'Cinzel Decorative', cursive;
 	font-size: 3em;
   padding: 2em;
 }
 #category{
   margin: 0;
   width: 1250px;
-  border-top: 1px #ddd solid;
-  border-bottom: 1px #ddd solid;
+	background-color: #c7c7c736;
   display: table;
   padding-top: 1em;
   padding-bottom: 1em;
@@ -53,10 +52,6 @@ header{
   padding: 50px;
   margin: 0;
 }
-.mainimage{
-  width: 300px;
-  margin: 50px;
-}
 .categories{
 	font-family: 'Nixie One', cursive;
 	font-weight: bolder;
@@ -71,6 +66,16 @@ header{
   color: black;
   letter-spacing: 2px;
   font: 13px;
+}
+#body .main{
+		margin: 170px 0 170px 0;
+}
+#body .main div{
+
+}
+#body .main div img{
+	width: 300px;
+	margin: 0 2rem;
 }
 .namdawon{
 	margin-top: 6rem;
